@@ -1,17 +1,17 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
-  base: '/'
+  name: OR9 Systems Inc
+  site: 'https://or9.ca'
+  base: '/inc'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: null
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: OR9 Systems Inc
+    template: '%s — OR9 Systems'
+  description: "Production support and security consulting for modern teams. Incident response, hardening, and on-call reliability expertise."
   robots:
     index: true
     follow: true
@@ -23,8 +23,8 @@ metadata:
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
+    handle: null
+    site: null
     cardType: summary_large_image
 
 i18n:
@@ -33,7 +33,7 @@ i18n:
 
 apps:
   blog:
-    isEnabled: true
+    isEnabled: false
     postsPerPage: 6
 
     post:
