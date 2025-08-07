@@ -1,7 +1,7 @@
 site:
   name: OR9 Systems Inc
   site: 'https://or9.ca'
-  base: '/inc'
+  base: '/'
   trailingSlash: false
 
   googleSiteVerificationId: null
